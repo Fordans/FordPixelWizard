@@ -1,0 +1,6 @@
+// FordPixelWizard - Windows Resource File
+// This file embeds the application icon into the executable.
+
+// IDI_ICON1 is the resource ID for the main application icon
+IDI_ICON1 ICON "icon.ico"
+
